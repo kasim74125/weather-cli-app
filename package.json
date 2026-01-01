@@ -1,0 +1,18 @@
+{
+  "name": "weather-cli-app",
+  "version": "1.0.0",
+  "description": "Demo C++ weather CLI app with configs",
+  "main": "main.cpp",
+  "scripts": {
+    "build": "g++ main.cpp -o weather-cli",
+    "run": "./weather-cli"
+  },
+  "keywords": [
+    "weather",
+    "cli",
+    "c++",
+    "demo"
+  ],
+  "author": "Osman",
+  "license": "MIT"
+}
