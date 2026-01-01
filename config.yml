@@ -1,0 +1,10 @@
+version: "1.0"
+
+app:
+  name: "Weather CLI App"
+  language: "C++17"
+
+weather:
+  default_city: "Istanbul"
+  units: "metric"
+  refresh_interval: 10
