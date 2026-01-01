@@ -1,0 +1,16 @@
+{
+  "app": {
+    "name": "Weather CLI App",
+    "author": "Osman",
+    "version": "1.0.0"
+  },
+  "weather": {
+    "default_city": "Istanbul",
+    "units": "metric",
+    "refresh_interval": 10
+  },
+  "logging": {
+    "enabled": true,
+    "log_file": "logs/weather.log"
+  }
+}
